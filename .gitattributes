@@ -1,0 +1,2 @@
+*mov filter=lfs diff=lfs merge=lfs -text
+Flutter_Course/** filter=lfs diff=lfs merge=lfs -text
